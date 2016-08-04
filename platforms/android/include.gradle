@@ -1,0 +1,16 @@
+android {
+    productFlavors {
+        "nativescriptgmapsdirections" {
+            dimension "nativescriptgmapsdirections"
+        }
+    }
+
+
+}
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    compile 'com.google.maps:google-maps-services:0.1.15'
+}
