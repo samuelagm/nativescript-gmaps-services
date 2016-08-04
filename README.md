@@ -74,3 +74,4 @@ cd nativescript-plugin-seed
 
 // Improve!
 ```
+"# nativescript-gmaps-services" 
